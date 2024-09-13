@@ -1,0 +1,81 @@
+## Remove any text above QUESTION 1 ##
+## Create new dataframe called scores ##
+## Questions 2, 7, 14,15, 22, 27, 28, 29, 31, 46 all need new lines after QUESTION. ##
+
+##  Incorrect original format in every question in file. ##
+QUESTION 4
+An Offensive Throwing Foul occurs when the thrower is solely responsible for initiating non-minor contact with a defensive player who is in a legal position. (17.7.1.)
+
+Answer choicesCorrectYour choiceUsers statisticsTRUE  93%FALSE  7%This question was answered 15573 times     # Spacing changes needed.
+Your score: 1
+
+Question Feedback:
+
+Correct
+
+
+
+## Add proper spacing from the above example and note the changes that need to be made this one ##
+QUESTION 1				# Keep Text Section somehow from here								
+• Player A is on offence and is making a play on the disc.  			
+
+• Player B is on defence and is also making a play on the disc.
+
+• Player B is behind Player A.
+
+• Player A slows down and moves to prevent Player B from getting around them.
+
+• Player B is able to avoid contact with Player A.
+
+• Player A catches the disc.
+
+This is allowed and the play stands. (12.5)					
+					# To here and add as a content column.
+
+Answer choices                          # Remove line.
+Correct					# Remove line.
+
+Your choice                             # Remove line.
+Users statistics
+TRUE  75%FALSE  25%                     # Add proper Spacing. Remove non-text objects.
+
+This question was answered 15500 times  # Remove line.
+
+Your score: 1			        
+
+Question Feedback: Correct
+					
+
+
+## Note more changes which were made and new columns which were added to the scores dataframe. ##
+QUESTION 1						
+				# Keep Text Section somehow from here
+• Player A is on offence and is making a play on the disc.  			 
+
+• Player B is on defence and is also making a play on the disc.
+
+• Player B is behind Player A.
+
+• Player A slows down and moves to prevent Player B from getting around them.
+
+• Player B is able to avoid contact with Player A.
+
+• Player A catches the disc.
+
+This is allowed and the play stands. (12.5)		
+				# To here and add as a content column.
+
+
+Users statistics	        # Make user stats columns TRUE and FALSE.		
+TRUE 75% FALSE 25%              # Add proper Spacing. Remove non-text objects.  
+
+Your score: 1		        # Add score to column as gpt_score column.
+
+Question Feedback: 1            # Add proper Spacing. Make Correct = 1. 
+				# Add true_score as a new column with 1s and 0. 
+				# If there is no 1 here then add 0 to true_score column.
+ 
+
+
+
+

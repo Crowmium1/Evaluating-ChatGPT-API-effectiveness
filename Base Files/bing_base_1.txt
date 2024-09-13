@@ -1,0 +1,855 @@
+Your score:	38.00 out of 50.00 (76.00%)
+Passing score:	42.50 (85.00%)
+Elapsed time:	680:40
+
+QUESTION 1
+If the defence is called for being offside for the first time in the game, that defence must undertake the pull again (7.5.2)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		25%
+FALSE		 	75%
+This question was answered 15446 times
+
+Your score: 0
+Question Feedback:
+
+There is no a warning for offside. See Rule 7.5.2. This rule was updated in 2021
+
+
+QUESTION 2
+• An offensive throwing foul is called by the marker.
+
+• The thrower still has possession.
+
+• The thrower contests the foul.
+
+The thrower retains possession and any stall count must resume at maximum six. (9.5.4)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			82%
+FALSE	 	 	18%
+This question was answered 15795 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 3
+• An offensive player catches the disc in the end zone they are attacking.
+
+• They lose possession due to ground contact related to the catch.
+
+• The disc hits the ground.
+
+This is a goal. (14.1.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	14%
+FALSE			86%
+This question was answered 15628 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 4
+The place where a disc becomes out-of-bounds and where a disc went out-of-bounds is always the same. (11.6, 11.8)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	31%
+FALSE			69%
+This question was answered 15898 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 5
+You can throw while running after catching a pass, as long as you release the disc before your third ground contact, and you do not speed up or change direction until you release the disc. (18.2.2.1)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			88%
+FALSE	 	 	12%
+This question was answered 15698 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 6
+• There has been a time-out during play.
+
+• The defence change the player who is marking the thrower.
+
+The stall count stays the same. (20.3.6)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	16%
+FALSE			84%
+This question was answered 15775 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 7
+If a defender uses an item of equipment, such as their hat, to help block the disc, the block is allowed. (12.10)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	6%
+FALSE			94%
+This question was answered 15758 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 8
+• There is a contested receiving foul.
+
+• The disc is returned to the thrower.
+
+• The stall count is at 'Stalling 6'.
+
+• A defender moves before the check and a violation is called.
+
+• The defender accepts that they moved before the check.
+
+The stall count must remain at 'Stalling 6' when play restarts. (9.5.4.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE		 	88%
+FALSE	 		12%
+This question was answered 15694 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 9.5.4.2.
+
+
+
+QUESTION 9
+For a stall-out turnover, the thrower must still be in possession of the disc when the marker finishes saying 'ten'. (13.2.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		36%
+FALSE		 	64%
+This question was answered 15699 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 13.2.2
+
+
+
+QUESTION 10
+• The marker calls 'Travel' as the thrower makes a pass.
+
+• The receiver drops the pass.
+
+If the receiver believes the 'Travel' call affected the play, then the disc goes back to the thrower. (18.2.8)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		23%
+FALSE		 	77%
+This question was answered 15681 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 18.2.8. An incomplete pass after a travel call is always a turnover, regardless of whether or not the call affected the play.
+
+
+
+QUESTION 11
+• There is a foul by the thrower on a completed pass.
+
+• The thrower does not contest the call.
+
+• The disc is returned to the thrower.
+
+The stall count restarts at a maximum of nine (9). (9.5.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			85%
+FALSE	 	 	15%
+This question was answered 15713 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 12
+The pull lands in bounds and stops in the end zone, without ever going out-of-bounds. The thrower can choose to establish a pivot:
+
+- at the location of the disc, or
+
+- at the goal line closest to where the disc stopped. (7.10)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		24%
+FALSE		 	76%
+This question was answered 15621 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 7.10
+
+
+
+QUESTION 13
+If the same marker has been straddling the thrower every time the thrower has the disc, the thrower can call a marking violation and stop play. (18.1.5.4)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			92%
+FALSE	 	 	8%
+This question was answered 15664 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 14
+If a line between the markers hands crosses the throwers pivot foot, this is a wrapping marking infraction. (18.1.1.4)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		59%
+FALSE		 	41%
+This question was answered 15672 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 18.1.1.4.
+
+
+
+QUESTION 15
+If after discussion players cannot agree what would most likely have occurred in a play the disc must be returned to the last non-disputed thrower. (1.12)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			96%
+FALSE	 	 	4%
+This question was answered 15658 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 16
+• A player initiates a stoppage incorrectly while the disc is in the air.
+
+• The opposition catches the disc.
+
+The pass stands. (15.9)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			89%
+FALSE	 	 	11%
+This question was answered 15625 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 17
+• Non-minor contact occurs between a receiver and a defender
+
+• They are both making a play on the disc and move towards a single point simultaneously
+
+• Both players caused the contact
+
+• The disc was caught after the contact occurred
+
+This should be treated as offsetting fouls. (17.9.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			83%
+FALSE	 	 	17%
+This question was answered 15537 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 18
+A 'Straddle' is defined as when a line between a defensive player's feet contains the thrower's pivot point. (18.1.1.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		50%
+FALSE		 	50%
+This question was answered 15717 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 18.1.1.2. This rule was updated in 2021
+
+
+
+QUESTION 19
+• The thrower calls a foul on the marker as they make a pass.
+
+• The intended receiver drops the pass but calls a foul on their defender.
+
+• Both calls are contested. 
+
+• The disc is returned to the thrower.
+
+The stall count should restart at 'Stalling 1'. (9.5.4.1, 9.5.1)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		35%
+FALSE		 	65%
+This question was answered 15474 times
+
+Your score: 0
+Question Feedback:
+
+See Rules 9.5.1 and 9.5.4.1. The stall count should restart at maximum 6. This rule was updated in 2021
+
+
+
+QUESTION 20
+The perimeter lines are part of the playing field. (2.3)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	13%
+FALSE			87%
+This question was answered 15625 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 21
+• A pick is called by Player A while the disc is in the air
+
+• The pass is incomplete
+
+Play can continue without a stoppage if Player A makes a 'Play on' call. (16.2.4.1)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			80%
+FALSE	 	 	20%
+This question was answered 15546 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 22
+• The thrower calls a marking violation for repeated fast counts.
+
+• At the same time the thrower attempts a pass.
+
+• The pass is incomplete.
+
+The turnover stands. (18.1.6)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE		 	89%
+FALSE	 		11%
+This question was answered 15690 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 18.1.6.
+
+
+
+QUESTION 23
+• A pass from team A is intercepted in the central zone by a player from team B.
+
+• The player from team B then intentionally drops the disc.
+
+The player from team B must re-establish possession. (13.6)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			81%
+FALSE	 	 	19%
+This question was answered 15696 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 24
+A disc that has been caught by a player is not considered part of that player. (Definitions)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	23%
+FALSE			77%
+This question was answered 15679 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 25
+Contact with an opponent's arms that occurs after the disc has been caught is a sufficient basis for a foul. (17.2.1.1.)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	26%
+FALSE			74%
+This question was answered 15674 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 26
+A 'catch' occurs when a player has a non-spinning disc trapped between at least two body parts (12.1)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			92%
+FALSE	 	 	8%
+This question was answered 15590 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 27
+• A defender intercepts a pass.
+
+• Directly after the interception they initiate non-minor contact with an opponent.
+
+It is possible that this is a defensive receiving foul, and if so, the interception will not count. (17.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			67%
+FALSE	 	 	33%
+This question was answered 15651 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 28
+After an accepted 'stall-out' play continues without a stoppage. (13.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	32%
+FALSE			68%
+This question was answered 15727 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 29
+• The thrower calls a foul on the marker as they make a pass.
+
+• The intended receiver drops the pass but calls a foul on their defender.
+
+• The defender contests the receiving foul, but the marker does not contest the marking foul.
+
+• The disc is returned to the thrower.
+
+The stall count should restart at 'Stalling 6'. (9.5.4.1, 9.5.1)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		24%
+FALSE		 	76%
+This question was answered 15730 times
+
+Your score: 0
+Question Feedback:
+
+See Rules 9.5.1 and 9.5.4.1. The stall count should restart at ?Stalling 1?. This rule was updated in 2021
+
+
+
+QUESTION 30
+If the thrower calls a time-out while play is live and when their team has no more time-outs, the time-out call has no effect. (20.4)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	26%
+FALSE			74%
+This question was answered 15713 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 31
+If there is a deliberate breach of the rules, the captains should discuss this, but they can't change the outcome of the play as determined by the rules (1.2.1)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	30%
+FALSE			70%
+This question was answered 15632 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 32
+Prior to the check the person checking the disc in, and the nearest opposition player, must verify that their own teammates are ready, and positioned as per 10.2 (10.4)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			93%
+FALSE	 	 	7%
+This question was answered 15743 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 33
+A defender can purposefully bobble the disc to themselves for the sole purpose of moving in a specific direction. (18.2.5.5)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	14%
+FALSE			86%
+This question was answered 15836 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 34
+A player may call a violation regarding the check if their teammate was moving immediately prior to the check (10.7)
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	53%
+FALSE			47%
+This question was answered 15709 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 35
+People on the side line must not give advice on foul calls, unless they are asked by the players involved. (1.10.2)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			92%
+FALSE	 	 	8%
+This question was answered 15595 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 36
+• An offensive player catches the disc in-bounds.
+
+• Their momentum causes them to leave the central zone and go out-of-bounds.
+
+They must restart play with a ground tap. (11.3.2.1)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	31%
+FALSE			69%
+This question was answered 15679 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 37
+• The offence makes an 'offside' call against the defence.
+
+• The offence then catches the pull.
+
+They can resume play as if a brick had been called (7.5.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		31%
+FALSE		 	69%
+This question was answered 15746 times
+
+Your score: 0
+Question Feedback:
+
+To call offside, the offence must let the disc hit the ground. See Rule 7.5.2 This rule was updated in 2021
+
+
+
+QUESTION 38
+If play is obstructed by non-players within three (3) metres of the perimeter line, a violation may be called by the thrower in possession or any obstructed player. (2.7)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			92%
+FALSE	 	 	8%
+This question was answered 15579 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 39
+Any offensive player may call a double team (15.5.1)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			87%
+FALSE	 	 	13%
+This question was answered 15570 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 40
+A Strip Foul occurs when an opponent fouls a player and that causes the player to drop a disc they caught or to lose possession of the disc. (17.3.1)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			93%
+FALSE	 	 	7%
+This question was answered 15681 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 41
+• A player establishes possession of the disc, and then they are injured.
+
+• The injury causes them to drop the disc.
+
+That player retains possession of the disc. (19.1.4)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			94%
+FALSE	 	 	6%
+This question was answered 15604 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 42
+• The thrower establishes a pivot point at the wrong spot
+
+• A travel is called.
+
+• The thrower still has the disc.
+
+• The thrower establishes a pivot point at the correct spot.
+
+The thrower must wait until the marker resumes the stall count before they can make a pass. (18.2.6.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	32%
+FALSE			68%
+This question was answered 15416 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 43
+Contact with an opponent's hands that occurs after the opponent can no longer make a play on the disc is a sufficient basis for a foul. (17.2.1.1.)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	23%
+FALSE			77%
+This question was answered 15660 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 44
+• The pull hits the ground out-of-bounds
+
+• Player A, on offence, picks up the disc
+
+• Player A gives the disc to teammate Player B
+
+This is a turnover (13.6)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 		29%
+FALSE		 	71%
+This question was answered 15595 times
+
+Your score: 0
+Question Feedback:
+
+See Rule 13.6
+
+
+
+QUESTION 45
+• The offence makes an 'offside' call against the defence.
+
+• They let the disc hit the ground untouched.
+
+The offence can resume play as if a brick has been called (no check is required) (7.5.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			87%
+FALSE	 	 	13%
+This question was answered 15758 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 46
+There is an accepted defensive receiving foul in the attacking end zone. The receiver gets possession in the end zone, then the disc is checked in, and then the receiver moves to the goal line. (17.2.2)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			77%
+FALSE	 	 	23%
+This question was answered 15675 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 47
+If the thrower calls 'Contact' and it is accepted, play does not stop and the marker must resume the stall count at one (1). (17.6.1.3)
+Answer choices	Correct	Your choice	Users statistics
+TRUE			88%
+FALSE	 	 	12%
+This question was answered 15616 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 48
+• A player on offence catches a pass near the sideline.
+
+• Momentum takes them out of bounds.
+
+The marker may start the stall count if they are within 3 metres of the pivot location. (9.3.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			85%
+FALSE	 	 	15%
+This question was answered 15723 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 49
+• A defender initiates a stoppage incorrectly while the disc is in the air.
+
+• The opposition drops the disc.
+
+The disc must be returned to the thrower, regardless of whether the call or event affected the outcome. (15.9, 16.3)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE	 	 	35%
+FALSE			65%
+This question was answered 15681 times
+
+Your score: 1
+Question Feedback:
+
+Correct
+
+
+QUESTION 50
+• A player lays out for a pass and gets injured, without any contact from an opponent.
+
+• They call 'injury'.
+
+They must choose either to be substituted, or to charge their own team with a time-out. (19.1.2)
+
+
+Answer choices	Correct	Your choice	Users statistics
+TRUE			92%
+FALSE	 	 	8%
+This question was answered 15946 times
+
+Your score: 1
+Question Feedback:
+
+Correct

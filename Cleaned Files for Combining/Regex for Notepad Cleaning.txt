@@ -1,0 +1,30 @@
+Regular Expressions for text file cleaning with Notepad++
+
+Remove block of text
+Answer choices\tCorrect\tYour choice\tUsers statistics\r?\nTRUE\s+\d+%\r?\nFALSE\s+\d+%\r?\nThis question was answered \d+ times
+Leave empty
+
+Move Correct back a line
+Question Feedback:\r?\n\s*Correct
+Question Feedback: Correct
+
+Alter Spacing
+(\r\n){2,}
+\r\n\r\n
+
+Remove space in front of question feedback
+Question Feedback:\r?\n\s+
+Question Feedback: 
+
+Put Question no over Content
+(QUESTION \d+)\R
+\1
+
+Remove line breaks in bullet point questions
+\.\R\K\s*
+empty
+Ensure that the ". matches newline" option is unchecked.
+
+Make newline for question and content
+
+

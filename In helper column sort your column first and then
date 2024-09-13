@@ -1,0 +1,19 @@
+ In helper column sort your column first and then search for unique IDs
+ =IF(AND(C3<>C2, ISNUMBER(SEARCH("?.?.?.?", C3))), C3, "") unique IDs
+
+
+
+Use formula to only highlight cells that both are duplicates and look like IP addresses
+=AND(COUNTIFS(C:C, C1)>1, ISNUMBER(SEARCH("?.?.?.?", C1)))
+
+
+In helper column use this for count the occurrence of each IP-like number in column A only if it's a duplicate and looks like an IP address
+=IF(AND(COUNTIFS(C:C, C1)>1, ISNUMBER(SEARCH("?.?.?.?", C1))), COUNTIFS(C:C, C1), "")
+
+
+Use this in helper column to tage unique and duplicate rows. These can then be sorted as a table for removal of duplicates. Best method.
+=IF(COUNTIF($E$2:$E2, E2)=1, "Unique", "Duplicate")  
+
+
+
+
